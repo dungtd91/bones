@@ -1,0 +1,1203 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Events Calendar Slider\n"
+"POT-Creation-Date: 2016-01-08 19:24+0530\n"
+"PO-Revision-Date: 2016-01-08 19:24+0530\n"
+"Last-Translator: LiveMesh\n"
+"Language-Team: LiveMesh\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_attr__;esc_attr_e;esc_html__;"
+"esc_html_e;_nx_noop\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-db-setup.php:36
+msgid "Top Padding"
+msgstr ""
+
+#: includes/class-db-setup.php:39
+msgid "Top Padding for the row."
+msgstr ""
+
+#: includes/class-db-setup.php:45
+msgid "Bottom Padding"
+msgstr ""
+
+#: includes/class-db-setup.php:48
+msgid "Bottom Padding for the row."
+msgstr ""
+
+#: includes/class-db-setup.php:54
+msgid "Top Padding in Tablet resolution"
+msgstr ""
+
+#: includes/class-db-setup.php:57
+msgid "Top Padding for the row in tablet resolutions."
+msgstr ""
+
+#: includes/class-db-setup.php:63
+msgid "Bottom Padding in Tablet resolution"
+msgstr ""
+
+#: includes/class-db-setup.php:66
+msgid "Bottom Padding for the row in tablet resolutions."
+msgstr ""
+
+#: includes/class-db-setup.php:72
+msgid "Top Padding in Mobile resolution"
+msgstr ""
+
+#: includes/class-db-setup.php:75
+msgid "Top Padding for the row in mobile resolutions."
+msgstr ""
+
+#: includes/class-db-setup.php:81
+msgid "Bottom Padding in Mobile resolution"
+msgstr ""
+
+#: includes/class-db-setup.php:84
+msgid "Bottom Padding for the row in mobile resolutions."
+msgstr ""
+
+#: includes/class-db-setup.php:92
+msgid "Dark Background?"
+msgstr ""
+
+#: includes/class-db-setup.php:95
+msgid ""
+"Indicate if this row has a dark background color. Dark color scheme will be "
+"applied for all widgets in this row."
+msgstr ""
+
+#: includes/class-db-setup.php:163
+msgid "DB SiteOrigin Widgets"
+msgstr ""
+
+#: includes/helper-functions.php:127
+msgid "All"
+msgstr ""
+
+#: includes/helper-functions.php:135
+msgid "View all items filed under "
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:17
+msgid "DB Carousel"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:19
+msgid "Display a collection of html elements as a carousel."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:27
+#: includes/widgets/db-clients-widget/db-clients-widget.php:25
+#: includes/widgets/db-heading-widget/db-heading-widget.php:25
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:25
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:25
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:25
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:25
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:25
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:25
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:96
+#: includes/widgets/db-services-widget/db-services-widget.php:25
+#: includes/widgets/db-services-widget/db-services-widget.php:56
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:25
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:25
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:25
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:25
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:32
+msgid "HTML Elements"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:33
+msgid "HTML Element"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:42
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:54
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:39
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:39
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:43
+msgid "The title to identify the HTML element"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:48
+msgid "HTML element"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:49
+msgid "The HTML content for the carousel item."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:56
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:35
+msgid "General Settings"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:61
+msgid ""
+"Custom CSS for presentation of the HTML elements. Will be embedded inline "
+"with the page."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:69
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:60
+msgid "Carousel Settings"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:74
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:65
+msgid "Prev/Next Arrows?"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:80
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:71
+msgid "Show dot indicators for navigation?"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:85
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:76
+msgid "Autoplay?"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:86
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:77
+msgid "Should the carousel autoplay as in a slideshow."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:93
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:84
+msgid "Autoplay speed in ms"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:100
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:91
+msgid "Autoplay animation speed in ms"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:106
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:97
+msgid "Pause on mouse hover?"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:112
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:146
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:181
+#: includes/widgets/db-clients-widget/db-clients-widget.php:60
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:100
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:103
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:137
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:172
+#: includes/widgets/db-services-widget/db-services-widget.php:108
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:145
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:69
+msgid "Columns per row"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:121
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:154
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:189
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:112
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:145
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:180
+msgid "Columns to scroll"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:130
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:162
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:197
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:134
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:155
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:121
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:153
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:188
+msgid "Gutter"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:131
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:163
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:198
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:122
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:154
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:189
+msgid "Space between columns."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:137
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:259
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:120
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:128
+msgid "Responsive"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:142
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:264
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:129
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:133
+msgid "Tablet"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:168
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:203
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:280
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:305
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:141
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:162
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:159
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:194
+msgid "Resolution"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:169
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:281
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:142
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:160
+msgid "The resolution to treat as a tablet resolution."
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:177
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:289
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:150
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:168
+msgid "Mobile Phone"
+msgstr ""
+
+#: includes/widgets/db-carousel-widget/db-carousel-widget.php:204
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:306
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:163
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:195
+msgid "The resolution to treat as a mobile resolution."
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:15
+msgid "DB Clients"
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:17
+msgid "Display one or more clients in a multi-column grid."
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:30
+msgid "Clients"
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:31
+msgid "Client"
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:40
+msgid "Client Name"
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:41
+msgid "The name of the client/customer."
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:46
+msgid "Client Logo"
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:48
+msgid "The logo image for the client/customer."
+msgstr ""
+
+#: includes/widgets/db-clients-widget/db-clients-widget.php:55
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:241
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:104
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:54
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:47
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:115
+#: includes/widgets/db-services-widget/db-services-widget.php:103
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:136
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:64
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:64
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:15
+msgid "DB Heading"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:17
+msgid "Create heading for display on the top of a section."
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:30
+#: includes/widgets/db-services-widget/db-services-widget.php:31
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:30
+msgid "Choose Style"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:37
+#: includes/widgets/db-services-widget/db-services-widget.php:38
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:37
+msgid "Style 1"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:38
+#: includes/widgets/db-services-widget/db-services-widget.php:39
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:38
+msgid "Style 2"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:44
+msgid "Heading Title"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:45
+msgid "Title for the heading."
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:50
+msgid "Subheading"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:51
+msgid "A subtitle displayed above the title heading."
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:60
+msgid "Short Text"
+msgstr ""
+
+#: includes/widgets/db-heading-widget/db-heading-widget.php:61
+msgid "Short text generally displayed below the heading title."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:15
+msgid "DB Hero Header"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:17
+msgid "Display a hero background with video or image background."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:30
+msgid "Header Type"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:37
+msgid "Standard"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:38
+msgid "Custom"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:44
+msgid "Custom Header"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:52
+msgid "Custom text"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:57
+msgid ""
+"Custom CSS for presentation of the Custom header elements. Will be embedded "
+"inline with the page."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:66
+msgid "Standard Header"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:74
+msgid "Header text"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:79
+msgid "Sub-heading text"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:85
+msgid "Button text"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:90
+msgid "Button URL"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:95
+msgid "Open URL in a new window"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:102
+msgid "URL for Pointer Down"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:103
+msgid ""
+"If an URL for the pointer down is specified, the hero image will sport a "
+"pointer down indicator to help user smooth scroll to the section indicated "
+"by this URL."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:108
+msgid "Background"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:113
+msgid "Background Type"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:120
+msgid "Cover Image"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:121
+msgid "Parallax Image"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:122
+msgid "YouTube Video"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:123
+msgid "HTML5 Video"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:129
+msgid "YouTube Background Video"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:139
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:140
+msgid ""
+"An URL of the YouTube video that will act as background video for this "
+"section."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:145
+msgid "Choose the YouTube video quality"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:148
+msgid "High Resolution"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:149
+msgid "Default"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:150
+msgid "Small"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:151
+msgid "Medium"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:152
+msgid "Large"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:153
+msgid "HD 720p"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:154
+msgid "HD 1080p"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:160
+msgid "Aspect ratio of the YouTube video"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:163
+msgid "16/9"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:164
+msgid "Auto"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:165
+msgid "4/3"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:174
+msgid "HTML5 Background videos"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:184
+msgid "MP4 Video file"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:189
+msgid "WebM Video file"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:194
+msgid "Ogg Video file"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:202
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:207
+msgid "Background Image"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:208
+msgid ""
+"This background image will be used as a placeholder image if YouTube or "
+"HTML5 video background option is chosen."
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:217
+msgid "Background Overlay"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:222
+msgid "Overlay color"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:227
+msgid "Overlay opacity"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:246
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:268
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:293
+msgid "Top padding"
+msgstr ""
+
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:252
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:274
+#: includes/widgets/db-hero-image-widget/db-hero-image-widget.php:299
+msgid "Bottom padding"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:15
+msgid "DB Odometers"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:17
+msgid "Display statistics as animated odometers in a multi-column grid."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:30
+msgid "Odometers"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:31
+msgid "Odometer"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:40
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:40
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:39
+msgid "Stats Title"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:41
+msgid "The title for the odometer stats"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:46
+msgid "Start Value"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:47
+msgid "The start value for the odometer stats."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:52
+msgid "Stop Value"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:53
+msgid "The stop value for the odometer stats."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:58
+#: includes/widgets/db-services-widget/db-services-widget.php:62
+msgid "Choose Icon Type"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:65
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:104
+#: includes/widgets/db-services-widget/db-services-widget.php:69
+msgid "Icon"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:66
+#: includes/widgets/db-services-widget/db-services-widget.php:70
+msgid "Icon Image"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:72
+msgid "Stats Image."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:81
+msgid "Stats Icon."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:90
+msgid "Prefix"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:91
+msgid ""
+"The prefix string for the odometer stats. Examples include currency symbols "
+"like $ to indicate a monetary value."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:96
+msgid "Suffix"
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:97
+msgid ""
+"The suffix string for the odometer stats. Examples include strings like hr "
+"for hours or m for million."
+msgstr ""
+
+#: includes/widgets/db-odometers-widget/db-odometers-widget.php:109
+msgid "Odometers per row"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:15
+msgid "DB Piecharts"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:17
+msgid "Display statistics or skills as a percentage piechart."
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:30
+msgid "Piecharts"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:31
+msgid "Piechart"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:41
+msgid "The title for the piechart"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:46
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:45
+msgid "Percentage Value"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:47
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:46
+msgid "The percentage value for the stats."
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:59
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:51
+msgid "Bar color"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:65
+msgid "Track color"
+msgstr ""
+
+#: includes/widgets/db-piecharts-widget/db-piecharts-widget.php:71
+msgid "Piecharts per row"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:15
+msgid "DB Portfolio"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:17
+msgid ""
+"Showcase your work or products with a filterable portfolio layout. Make sure "
+"that Custom Post Types module in active in Jetpack plugin"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:30
+msgid "Heading for the portfolio"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:35
+msgid ""
+"Optionally choose one or more categories/project types for display of "
+"portfolio items. If none chosen, items from all of the categories are "
+"displayed."
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:42
+msgid ""
+"Enter the total number of projects to display. If blank or zero, all "
+"projects are displayed."
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:52
+msgid "Filterable?"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:58
+msgid "Choose a layout for the portfolio"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:65
+msgid "Fit Rows"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:66
+msgid "Masonry"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:72
+msgid "Packed Layout?"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:82
+msgid "Link the image to the portfolio?"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:88
+msgid "Display project title below the portfolio item?"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:94
+msgid "Display project excerpt/summary below the portfolio item?"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:109
+msgid "Masonry Gutter"
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:114
+msgid "Space between columns in masonry grid."
+msgstr ""
+
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:135
+#: includes/widgets/db-portfolio-widget/db-portfolio-widget.php:156
+msgid "Space between columns in masonry layout."
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:15
+msgid "DB Posts Carousel"
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:17
+msgid "Display blog posts or custom post types as a carousel"
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:30
+msgid "Posts query"
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:40
+msgid "Display posts title below the post item?"
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:46
+msgid "Display post excerpt/summary below the post item?"
+msgstr ""
+
+#: includes/widgets/db-posts-carousel-widget/db-posts-carousel-widget.php:52
+msgid "Link Images to Posts?"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:15
+msgid "DB Pricing Table"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:17
+msgid "Display pricing table in a multi-column grid."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:30
+msgid "Pricing Table"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:31
+msgid "Pricing Plan"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:40
+msgid "Pricing Plan Title"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:41
+msgid "The title for the pricing plan"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:46
+msgid "Tagline Text"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:47
+msgid ""
+"Provide any subtitle or taglines like \"Most Popular\", \"Best Value\", "
+"\"Best Selling\", \"Most Flexible\" etc. that you would like to use for this "
+"pricing plan."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:52
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:51
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:51
+msgid "Image"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:57
+msgid "Price Tag"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:58
+msgid "Enter the price tag for the pricing plan. HTML is accepted."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:63
+msgid "Text for Pricing Link/Button"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:64
+msgid ""
+"Provide the text for the link or the button shown for this pricing plan."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:69
+msgid "URL for the Pricing link/button"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:70
+msgid ""
+"Provide the target URL for the link or the button shown for this pricing "
+"plan."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:75
+msgid "Open Button URL in a new window"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:80
+msgid "Highlight Pricing Plan"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:81
+msgid "Specify if you want to highlight the pricing plan."
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:86
+msgid "Pricing Plan Details"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:87
+msgid "Pricing Item"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:100
+msgid "Value"
+msgstr ""
+
+#: includes/widgets/db-pricing-table-widget/db-pricing-table-widget.php:120
+msgid "Pricing Columns per row"
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:15
+msgid "DB Services"
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:17
+msgid "Create services to display in a column grid."
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:45
+msgid "Services"
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:46
+msgid "Service"
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:57
+msgid "Title of the service."
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:76
+msgid "Service Image."
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:85
+msgid "Service Icon."
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:94
+msgid "Short description"
+msgstr ""
+
+#: includes/widgets/db-services-widget/db-services-widget.php:95
+msgid "Provide a short description for the service"
+msgstr ""
+
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:15
+msgid "DB Stats Bars"
+msgstr ""
+
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:17
+msgid "Display statistics or skills as a percentage stats bar."
+msgstr ""
+
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:29
+msgid "Stats Bars"
+msgstr ""
+
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:30
+msgid "Stats Bar"
+msgstr ""
+
+#: includes/widgets/db-stats-bar-widget/db-stats-bar-widget.php:40
+msgid "The title for the stats bar"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:15
+msgid "DB Team Members"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:17
+msgid "Create team members to display in a column grid."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:44
+msgid "Team Members"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:45
+msgid "Team Member"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:55
+msgid "Name of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:60
+msgid "Team member image."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:65
+msgid "Position"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:66
+msgid "Specify the position/title of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:71
+msgid "Short details"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:72
+msgid "Provide a short writeup for the team member"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:78
+msgid "Social profile"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:82
+msgid "Email Address"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:83
+msgid "Enter the email address of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:88
+msgid "Facebook Page URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:89
+msgid "URL of the Facebook page of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:94
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:95
+msgid "URL of the Twitter page of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:100
+msgid "LinkedIn Page URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:101
+msgid "URL of the LinkedIn profile of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:106
+msgid "Pinterest Page URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:107
+msgid "URL of the Pinterest page for the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:112
+msgid "Dribbble Profile URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:113
+msgid "URL of the Dribbble profile of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:118
+msgid "GooglePlus Page URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:119
+msgid "URL of the Google Plus page of the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:124
+msgid "Instagram Page URL"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/db-team-members-widget.php:125
+msgid "URL of the Instagram feed for the team member."
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:24
+msgid "Contact Us"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:26
+msgid "Follow on Facebook"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:28
+msgid "Subscribe to Twitter Feed"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:30
+msgid "View LinkedIn Profile"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:32
+msgid "Follow on Google Plus"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:34
+msgid "View Instagram Feed"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:36
+msgid "Subscribe to Pinterest Feed"
+msgstr ""
+
+#: includes/widgets/db-team-members-widget/tpl/social-profile.php:38
+msgid "View Dribbble Portfolio"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:15
+msgid "DB Testimonials Slider"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:17
+msgid "Share your product/service testimonials in a responsive slider."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:29
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:29
+msgid "Testimonials"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:30
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:30
+msgid "Testimonial"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:40
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:40
+msgid "The author of the testimonial"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:45
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:45
+msgid "Author Details"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:46
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:46
+msgid ""
+"The details of the author like company name, position held, company URL etc. "
+"HTML accepted."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:56
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:56
+msgid "Text"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:57
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:57
+msgid "What your customer had to say"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:69
+msgid "Slideshow speed"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:75
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:81
+msgid "Pause slider on action."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:82
+msgid ""
+"Should the slideshow pause once user initiates an action using navigation/"
+"direction controls."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:88
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:89
+msgid "Should the slider pause on mouse hover over the slider."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:95
+msgid "Direction Navigation"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:96
+msgid "Should the slider have direction navigation."
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:102
+msgid "Navigation Controls"
+msgstr ""
+
+#: includes/widgets/db-testimonials-slider-widget/db-testimonials-slider-widget.php:103
+msgid "Should the slider have navigation controls."
+msgstr ""
+
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:15
+msgid "DB Testimonials"
+msgstr ""
+
+#: includes/widgets/db-testimonials-widget/db-testimonials-widget.php:17
+msgid "Display testimonials in a responsive multi-column grid."
+msgstr ""
+
+#: db-so-widgets.php:74 db-so-widgets.php:83
+msgid "Cheatin&#8217; huh?"
+msgstr ""

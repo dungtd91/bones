@@ -1,0 +1,6 @@
+.db-carousel .db-carousel-item {
+    position: relative;
+    }
+.db-carousel.db-container {
+    max-width: none;
+    }

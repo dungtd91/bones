@@ -1,0 +1,77 @@
+.widget_db-faqs .widget-title {
+  font-size: 30px;
+  font-weight: 500;
+  color: #000;
+  text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+.widget_db-faqs .widget-title:after {
+  content: ' ';
+  display: block;
+  height: 3px;
+  background-color: #4c4c4c;
+  width: 75px;
+  margin: 0 auto;
+  margin-top: 15px;
+}
+.db-main {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.db-main .db-accordion {
+  position: relative;
+  border-radius: 5px;
+  padding: 25px 20px 25px 30px;
+  margin-bottom: 17px;
+}
+.db-main .db-accordion:hover {
+  border: 1px solid #7f7f7f;
+  padding: 24px 19px 24px 29px;
+}
+.db-main .db-accordion .db-accordion-content {
+  display: none;
+}
+.db-main .db-accordion .db-accordion-content.active {
+  display: block;
+}
+.db-main .db-accordion-title {
+  position: relative;
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  user-select: none;
+  text-decoration: none;
+  font-size: 17px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+.db-main .db-accordion-title:after {
+  width: 8px;
+  height: 8px;
+  border-right: 1px solid #1a1a1a;
+  border-bottom: 1px solid #1a1a1a;
+  position: absolute;
+  left: -18px;
+  content: " ";
+  top: 8px;
+  transform: rotate(-45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.db-main .db-accordion .db-accordion-content {
+  font-size: 15px;
+  line-height: 21px;
+  margin-top: 15px;
+}
+.db-main .db-accordion .db-accordion-content p:last-child {
+  margin-bottom: 0;
+}
+.db-accordion-title.active:after {
+  transform: rotate(45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}

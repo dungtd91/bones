@@ -1,0 +1,29 @@
+.so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry {
+  margin-left: -20px;
+  margin-right: -20px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}
+.so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry .db-portfolio-item {
+  padding: 20px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry .db-portfolio-item {
+    padding: 10px;
+  }
+}
+@media screen and (max-width: 480px) {
+  .so-widget-db-portfolio-default-1398c7c9e37b .db-portfolio.db-masonry .db-portfolio-item {
+    padding: 10px;
+  }
+}

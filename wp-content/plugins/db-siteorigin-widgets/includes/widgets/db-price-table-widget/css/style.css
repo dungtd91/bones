@@ -1,0 +1,57 @@
+.widget_db-price-table .so-widget-db-price-table .widget-title {
+  margin-bottom: 30px;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+  text-transform: uppercase;
+}
+.widget_db-price-table .so-widget-db-price-table .widget-title:after {
+  content: ' ';
+  display: block;
+  width: 73px;
+  height: 3px;
+  background-color: #4c4c4c;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column {
+  position: relative;
+  padding-left: 5px;
+  padding-right: 5px;
+  text-align: center;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column .db-pt-title {
+  font-size: 24px;
+  font-weight: 500;
+  color: #fefefe;
+  text-align: center;
+  text-transform: uppercase;
+  width: 100%;
+  border-radius: 0 !important;
+  border: none !important;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column .db-pt-title .db-pt-subtitle {
+  font-size: 15px;
+  text-align: center;
+  text-transform: capitalize;
+  width: 100%;
+  font-weight: 400;
+  display: block;
+  margin-top: 20px;
+  color: #fefefe;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column .db-pt-details {
+  border: none;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column .db-pt-details .db-pt-price {
+  font-size: 60px;
+  font-weight: 500;
+  display: inline-block;
+  border-top-color: transparent;
+}
+.widget_db-price-table .so-widget-db-price-table .db-pt-columns-atom .db-pt-column .db-pt-details .db-pt-per {
+  display: inline-block;
+  font-size: 15px;
+  font-weight: 500;
+  color: #fefefe;
+}

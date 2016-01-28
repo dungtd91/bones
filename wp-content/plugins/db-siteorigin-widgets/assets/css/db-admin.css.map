@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OAAQ;EACN,UAAU,EAAE,MAAM",
+"sources": ["db-admin.scss"],
+"names": [],
+"file": "db-admin.css"
+}

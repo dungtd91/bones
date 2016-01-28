@@ -1,0 +1,52 @@
+.db-services .db-content-box-wrapper {
+  border-left: 8px solid #898989;
+  padding-left: 31px;
+  padding-top: 33px;
+  padding-bottom: 33px;
+  padding-right: 20px;
+  background-color: #4f9db6;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-title {
+  display: inline-block;
+  margin: 0;
+  font-size: 18px;
+  font-weight: 400;
+  color: #fff;
+  border-bottom: 1px solid #ffffff;
+  text-transform: uppercase;
+  padding-bottom: 2px;
+  clear: both;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details {
+  font-size: 15px;
+  line-height: 21px;
+  color: #fff;
+  margin-top: 15px;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details p {
+  margin-bottom: 20px;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details p:last-child {
+  margin-bottom: 0;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details ul {
+  padding-left: 20px;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details ul li {
+  margin-bottom: 16px;
+  padding-left: 6px;
+  position: relative;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details ul li:last-child {
+  margin-bottom: 0;
+}
+.db-services .db-content-box-wrapper .db-content-box .db-details ul li:after {
+  content: '';
+  display: block;
+  width: 14px;
+  height: 14px;
+  background: url("../assets/icon-list.png") center center no-repeat;
+  position: absolute;
+  left: -20px;
+  top: 4px;
+}

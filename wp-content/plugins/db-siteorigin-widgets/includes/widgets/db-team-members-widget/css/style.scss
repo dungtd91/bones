@@ -1,0 +1,209 @@
+@import "../../../../assets/css/db-lib";
+
+.db-team-members {
+  .db-team-member {
+    .db-social-list {
+      margin-top: 20px;
+      .db-social-list-item {
+        display: inline;
+        margin: 0 15px 0 0;
+        }
+      }
+    .db-team-member-details {
+      @include db-body-font();
+      }
+    .db-team-member-text {
+      .db-title {
+        @include db-heading-style();
+        }
+      .db-team-member-position {
+        font-size: 15px;
+        line-height: 24px;
+        font-style: italic;
+        color: #888;
+        margin-bottom: 10px;
+        }
+      }
+    }
+
+  }
+/*-------- Style 1 ----------------*/
+
+.db-team-members.db-style1 {
+  .db-team-member-wrapper {
+    float: left;
+    padding: 10px;
+    }
+  .db-team-member {
+    max-width: 320px;
+    margin: 0 auto 40px;
+    .db-image-wrapper {
+      text-align: center;
+      position: relative;
+      img {
+        max-width: 100%;
+        margin: 0 auto 30px;
+        border-radius: 50%;
+        @include vendorize(transition, all 0.3s ease-in-out 0s);
+        }
+      .db-social-list {
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 40%;
+        z-index: 2;
+        @include respond-to-max(767) {
+          position: relative;
+          top: 0;
+          }
+        i {
+          font-size: 26px;
+          color: #fff;
+          opacity: 0;
+          @include vendorize(transition, all 0.3s ease-in-out 0s);
+          &:hover {
+            color: #ccc;
+            }
+          @include respond-to-max(767) {
+            color: inherit;
+            opacity: 1;
+            &:hover {
+              color: inherit;
+              }
+            }
+          }
+        }
+      }
+    &:hover {
+      .db-image-wrapper {
+        img {
+          @include vendorize(filter, brightness(50%));
+          @include respond-to-max(767) {
+            @include vendorize(filter, brightness(80%));
+            }
+          }
+        .db-social-list i {
+          opacity: 1;
+          }
+        }
+      }
+    .db-team-member-text {
+      text-align: center;
+      max-width: 650px;
+      .db-title {
+        margin-bottom: 10px;
+        }
+      }
+    .db-social-list {
+      margin: 10px auto;
+      }
+    }
+  }
+
+/*-------- Style 2 ----------------*/
+
+.db-team-members.db-style2 {
+  position: relative;
+  overflow: hidden;
+  max-width: 960px;
+  .db-team-member-wrapper {
+    clear: both;
+    margin-top: 100px;
+    overflow: hidden;
+    &:first-child {
+      margin-top: 0;
+      }
+    /* Make that flip-flop possible */
+    .db-image-wrapper {
+      float: left;
+      position: relative;
+      img {
+        max-width: 320px;
+        border-radius: 50%;
+        @include vendorize(transition, all 0.3s ease-in-out 0s);
+        }
+      }
+    .db-team-member-text {
+      margin: 10px 0 0;
+      vertical-align: middle;
+      padding-top: 20px;
+      .db-title {
+        margin-bottom: 5px;
+        }
+      .db-team-member-details {
+        margin: 10px 0 10px;
+        }
+      .db-social-list {
+        i {
+          font-size: 24px;
+          }
+        }
+      }
+    &:hover {
+      .db-image-wrapper img {
+        @include vendorize(filter, brightness(80%));
+        }
+      }
+    }
+  .db-team-member-wrapper:nth-child(odd) {
+    .db-image-wrapper {
+      margin-right: 50px;
+      }
+    }
+  .db-team-member-wrapper:nth-child(even) {
+    .db-image-wrapper {
+      float: right;
+      margin-left: 50px;
+      }
+    .db-team-member-text {
+      .db-title, .db-team-member-position, .db-team-member-details, .db-social-list {
+        text-align: right;
+        }
+      }
+    }
+  }
+
+@include respond-to-max(767) {
+  .db-team-members.db-style2 {
+    .db-team-member-wrapper {
+      margin-top: 75px;
+      }
+    .db-team-member {
+      .db-image-wrapper, .db-team-member-text {
+        width: 100%;
+        float: none;
+        }
+      .db-image-wrapper {
+        text-align: center;
+        img {
+          margin: 0 auto 20px;
+          }
+        }
+      .db-team-member-text {
+        max-width: 400px;
+        margin: 0 auto;
+        padding-top: 0;
+        .db-title, .db-team-member-position, .db-team-member-details, .db-social-list {
+          text-align: center !important;
+          }
+        }
+      }
+    }
+  }
+
+.db-dark-bg .db-team-members {
+  .db-team-member {
+    .db-team-member-details {
+      color: #909090;
+      }
+    .db-team-member-text {
+      .db-title {
+        color: #e5e5e5;
+        }
+      .db-team-member-position {
+        color: #505050;
+        }
+      }
+    }
+
+  }

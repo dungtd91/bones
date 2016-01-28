@@ -1,0 +1,173 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.db-hero-header {
+  position: relative;
+}
+
+.db-hero-header {
+  padding: 200px 0;
+  margin: 0;
+  overflow: hidden;
+  /* Hide the image background when ytp video is playing */
+}
+@media only screen and (max-width: 1100px) {
+  .db-hero-header {
+    background-attachment: scroll !important;
+    background-position: center center !important;
+  }
+}
+@media only screen and (max-width: 767px) {
+  .db-hero-header {
+    padding: 60px 0;
+  }
+}
+.db-hero-header .db-overlay {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+}
+.db-hero-header .db-parallax-bg, .db-hero-header .db-image-bg, .db-hero-header .db-html5-video-bg {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0 auto;
+}
+.db-hero-header .db-html5-video-bg video {
+  width: 100%;
+  height: auto;
+}
+@media only screen and (max-width: 767px) {
+  .db-hero-header .db-html5-video-bg video {
+    width: auto;
+    height: 100%;
+  }
+}
+.db-hero-header .db-parallax-bg, .db-hero-header .db-image-bg {
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+.db-hero-header.ytp-bg .db-hero-header-content, .db-hero-header.db-section-bg-parallax .db-hero-header-content, .db-hero-header.image-banner .db-hero-header-content {
+  position: relative;
+}
+.db-hero-header.mb_YTPlayer .db-image-bg {
+  display: none;
+}
+.db-hero-header.db-section-bg-parallax {
+  overflow: hidden;
+}
+.db-hero-header.db-section-bg-parallax .db-parallax-bg {
+  height: 200%;
+  -webkit-transform: translate3d(0, -50%, 0);
+  -moz-transform: translate3d(0, -50%, 0);
+  -ms-transform: translate3d(0, -50%, 0);
+  transform: translate3d(0, -50%, 0);
+}
+.db-mobile-device .db-hero-header.db-section-bg-parallax .db-parallax-bg {
+  height: 100%;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.db-hero-header .db-header-content {
+  position: relative;
+  max-width: 1140px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 20px;
+}
+.db-hero-header .db-header-content .db-subheading {
+  color: #aaa;
+  font-style: italic;
+  font-size: 16px;
+  line-height: 26px;
+  margin-bottom: 10px;
+  font-weight: 400;
+}
+.db-hero-header .db-header-content .db-heading {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 28px;
+  line-height: 40px;
+  font-weight: bold;
+  margin: 0;
+  color: #ebebeb;
+}
+.db-hero-header .db-header-content .db-button {
+  display: inline-block;
+  font-size: 14px;
+  line-height: 22px;
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  border: 1px solid #bbb;
+  padding: 10px 35px;
+  color: #eeeeee;
+  -webkit-transition: all 0.4s ease-in-out 0s;
+  -moz-transition: all 0.4s ease-in-out 0s;
+  -ms-transition: all 0.4s ease-in-out 0s;
+  transition: all 0.4s ease-in-out 0s;
+  margin-top: 30px;
+}
+.db-hero-header .db-header-content .db-button:hover {
+  color: #fff;
+  border-color: #ffffff;
+  text-decoration: none;
+}
+@media only screen and (max-width: 600px) {
+  .db-hero-header .db-header-content .db-subheading {
+    font-size: 16px;
+    line-height: 24px;
+  }
+  .db-hero-header .db-header-content .db-heading {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}
+
+.db-hero-header iframe,
+.db-hero-header object,
+.db-hero-header embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  max-width: none;
+  /* important */
+}
+
+/* ------ Pointer down button ------ */
+.db-hero-header .db-pointer-down {
+  display: block;
+  left: 50%;
+  bottom: 10px;
+  margin-left: -26px;
+  position: absolute;
+  font-size: 32px;
+  z-index: 3;
+  padding: 10px 20px;
+  border-radius: 2px;
+  -webkit-transition: all ease-in-out 0.3s 0s;
+  -moz-transition: all ease-in-out 0.3s 0s;
+  -ms-transition: all ease-in-out 0.3s 0s;
+  transition: all ease-in-out 0.3s 0s;
+  color: #fff;
+}
+@media only screen and (max-width: 767px) {
+  .db-hero-header .db-pointer-down {
+    display: none;
+  }
+}
+.db-hero-header .db-pointer-down:hover {
+  background: rgba(255, 255, 255, 0.2);
+}

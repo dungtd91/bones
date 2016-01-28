@@ -1,0 +1,16 @@
+.so-widget-db-hero-image-default-f81bf4c7171c .db-hero-header {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+@media screen and (max-width: 800px) {
+  .so-widget-db-hero-image-default-f81bf4c7171c .db-hero-header {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+}
+@media screen and (max-width: 400px) {
+  .so-widget-db-hero-image-default-f81bf4c7171c .db-hero-header {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}

@@ -1,0 +1,130 @@
+/*- FILTER OPTIONS -*/
+
+.options-container {
+    width: 100%;
+    text-align: center;
+    border-bottom: none;
+}
+
+ul#filterOptions {
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+    height: auto;
+    margin-bottom: 90px;
+}
+
+ul#filterOptions li {
+    display: inline-block;
+    list-style: none;
+    line-height: 38px;
+    text-align: center;
+    border: 1px solid #7f7f7f;
+    border-radius: 3px;
+    margin-right: 34px;
+    font-size: 17px;
+}
+
+ul#filterOptions li a {
+    color: #000;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0px 20px;
+}
+
+ul#filterOptions li.active,
+ul#filterOptions li:hover {
+    border: 1px solid #da263c;
+    background-color: #da263c;
+    color: #fff;
+}
+
+ul#filterOptions li.active a,
+ul#filterOptions li:hover a {
+    color: #fff;
+}
+
+/*- -*/
+/*- OUR DATA HOLDER -*/
+ul.ourHolder {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    padding-left: 0;
+}
+
+ul.ourHolder li.item {
+    list-style: none;
+    padding: 1px;
+    width: 31.66%;
+    margin-left: 2.5%;
+    display: block;
+    float: left;
+    overflow: hidden;
+    min-height: 400px;
+    margin-bottom: 40px;
+}
+
+ul.ourHolder li.item:nth-child(3n+1) {
+    margin-left: 0;
+}
+
+ul.ourHolder li.item .post-title,
+ul.ourHolder li.item .post-title a {
+    font-size: 18px;
+    text-transform: uppercase;
+    line-height: 30px;
+    max-height: 30px;
+    overflow: hidden;
+    color: #000;
+    margin-top: 22px;
+    text-decoration: none;
+    font-weight: 400;
+    margin-bottom: 0;
+}
+ul.ourHolder li.item .post-meta span {
+    font-size: 14px;
+    line-height: 20px;
+    font-style: italic;
+    font-weight: 300;
+}
+ul.ourHolder li.item .post-meta span.author {
+    margin-right: 45px;
+}
+
+ul.ourHolder li.item .post-description {
+    font-size: 15px;
+    line-height: 21px;
+    max-height: 84px;
+    overflow: hidden;
+    color: #000;
+    margin-top: 19px;
+}
+ul.ourHolder li.item .post-description .read-more {
+    color: #da263c;
+    font-weight: 400;
+    text-decoration: none;
+}
+ul.ourholder li.item img {
+    width: 100%;
+    height: auto;
+}
+
+ul.ourHolder li.item h3 {
+    margin-top: 10px;
+    font-size: 14px;
+    line-height: 20px;
+}
+
+/*- -*/
+
+.descriptions {
+    clear: both;
+}
+
+.descriptions h3 {
+    font-size: 12px;
+    text-align: center;
+}

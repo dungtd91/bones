@@ -1,0 +1,55 @@
+.db-main {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.db-main .db-accordion {
+  position: relative;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+.db-main .db-accordion .db-accordion-content {
+  display: none;
+}
+.db-main .db-accordion-title {
+  width: 100%;
+  display: block;
+  cursor: pointer;
+  line-height: 3;
+  text-indent: 15px;
+  user-select: none;
+  text-decoration: none;
+  padding: 0 20px;
+}
+.db-main .db-accordion-title:after {
+  width: 8px;
+  height: 8px;
+  border-right: 1px solid #4a6e78;
+  border-bottom: 1px solid #4a6e78;
+  position: absolute;
+  left: 10px;
+  content: " ";
+  top: 20px;
+  transform: rotate(-45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.db-main .db-accordion .db-accordion-content {
+  padding: 10px;
+}
+.db-accordion-title.active:after {
+  transform: rotate(45deg);
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+.db-main .db-accordion .db-accordion-title {
+  color: #000000;
+}
+.db-main .db-accordion .db-accordion-title:hover {
+  color: #000000;
+}
+.db-main .db-accordion .db-accordion-content {
+  color: #000000;
+}

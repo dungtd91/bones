@@ -1,0 +1,150 @@
+/* Large desktops and laptops */
+@media (min-width: 1200px) {
+
+}
+
+/* Landscape tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+	#masthead .main-nav #ptm-navbar .navbar-nav li a {
+		padding: 17px 20px 13px;
+	}
+	#slider-wrap .slider_captions .carousel-caption {
+		padding: 20px 10px;
+		font-size: 16px;
+	}
+	#slider-wrap .slider_captions .carousel-caption article header {
+		margin-bottom: 0;
+	}
+	#slider-wrap .slider_captions .carousel-caption article footer {
+		position: relative;
+		bottom: auto;
+		left: auto;
+	}
+	#slider-wrap .slider_captions .heading {
+		font-size: 30px;
+		margin: 20px auto;
+	}
+}
+
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+	#masthead .contact-wrap #contact-info {
+		font-size: 18px;
+	}
+	#masthead .main-nav #ptm-navbar .navbar-nav li a {
+		padding: 12px 12px 8px;
+		font-size: 14px;
+		line-height: 16px !important;
+	}
+	
+}
+
+@media (max-width: 991px) {
+	
+	#slider-wrap #slider, #contact-wrap #contact-map {
+		width: 100%;
+		float: none;
+		clear: both;
+	}
+	#slider-wrap #slider_captions_wrap, #contact-wrap #contact-info {
+		width: 100%;
+		position: relative;
+		float: none;
+		clear: both;
+	}
+	#slider-wrap .slider_captions .carousel-caption {
+		position: relative;
+		left: auto; right: auto; top: auto; bottom: auto;
+	}
+	
+	#slider-wrap .slider_captions .carousel-caption article footer {
+		position: relative;
+		bottom: auto; left: auto;
+	}
+	
+	#services-wrap .service {
+		margin-bottom: 40px;
+	}
+	.contact form .pmt_form_group input:not(.pmt_btn), .contact form .pmt_form_group textarea {
+		width: 100%;
+	}
+}
+
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+	#masthead .head .site-branding .site-title,
+	#masthead .contact-wrap,
+	#masthead .contact-wrap .socials {
+		text-align: center;
+		float: none;
+	}
+	#masthead .contact-wrap .socials li {
+		float: none;
+		display: inline-block;
+	}
+	#masthead .main-nav #ptm-navbar .navbar-collapse {
+		overflow: hidden;
+	}
+	#masthead .main-nav #ptm-navbar .navbar-nav li a {
+		font-size: 14px;
+		line-height: 14px;
+	}
+	.navbar-default .navbar-toggle {
+		border-color: #fff;
+		border-radius: 0;
+		margin-right: 0;
+	}
+	.navbar-default .navbar-toggle .icon-bar {
+		background-color: #fff;
+	}
+	.navbar-default .navbar-toggle:focus, .navbar-default .navbar-toggle:hover {
+		background-color: #272727;
+		border-color: #ffffff;
+	}
+	.navbar-nav.sm-collapsible .caret, .navbar-nav.sm-collapsible ul .caret {
+	    margin: 0px 15px 0 0;
+	    height: 46px;
+	    width: 46px;
+	    top: 0;
+	    right: 0;
+	    background-color: transparent;
+	    border: 0;
+	}
+	.navbar-nav.sm-collapsible .caret:before {
+		line-height: 42px;
+    	font-size: 20px;
+	}
+	#news-wrap .news .post-wrap {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+	#news-wrap .news .post-wrap .post-thumbnail img {
+		width: 100%;
+	}
+	footer#colophon .footer-column {
+		border-bottom: 1px solid #fff;
+	}
+	footer#colophon .widget-area:last-child .footer-column {
+		border-bottom: 0;
+	}
+
+}
+
+/* Portrait phones and smaller */
+@media (max-width: 480px) {
+	#masthead .contact-wrap #contact-info {
+		font-size: 20px;
+	}
+	#slider-wrap .slider_captions .carousel-caption {
+		font-size: 14px;
+	}
+	#slider-wrap .slider_captions .heading {
+		font-size: 30px;
+	}
+}
+
+@media (max-width: 360px) {
+	#masthead .contact-wrap #contact-info {
+		font-size: 17px;
+	}
+}

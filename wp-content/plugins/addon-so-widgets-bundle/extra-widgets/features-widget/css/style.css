@@ -1,0 +1,54 @@
+.db-features-title {
+  font-size: 30px;
+  color: #000;
+  text-transform: uppercase;
+  margin-bottom: 42px;
+  font-weight: 400;
+}
+.db-features-list .db-features-feature {
+  overflow: initial;
+}
+.db-features-list .db-icon-container {
+  padding-right: 24px;
+}
+.db-features-list .textwidget {
+  overflow: initial;
+}
+.db-features-list .textwidget h5 {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: 400;
+  color: #383838;
+  text-transform: uppercase;
+}
+.db-features-list .textwidget p {
+  font-size: 15px;
+  color: #383838;
+  line-height: 21px;
+  max-height: 63px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+.db-features-list .read-more {
+  background-color: #e12424;
+  font-size: 18px;
+  color: #fffefe;
+  line-height: 44px;
+  padding-left: 25px;
+  padding-right: 25px;
+  background-repeat: no-repeat;
+  background-position: 28px 13px;
+  margin-top: 52px;
+  -webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.db-features-list .read-more span {
+  display: inline-block;
+  padding-right: 10px;
+}
+.db-features-list .read-more:hover {
+  text-decoration: none;
+  background-color: #e75151;
+}

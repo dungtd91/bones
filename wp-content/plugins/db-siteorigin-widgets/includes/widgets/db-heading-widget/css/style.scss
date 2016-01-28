@@ -1,0 +1,59 @@
+
+@import "../../../../assets/css/db-lib";
+
+.db-heading.db-style1 {
+  text-align: center;
+  margin: 0 auto 60px;
+  @include respond-to-max(767) {
+    margin-bottom: 40px;
+    }
+  .db-title {
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 42px;
+    margin: 0 auto 20px;
+    max-width: 640px;
+    color: #333;
+    font-weight: bold;
+    @include respond-to-max(767) {
+      font-size: 24px;
+      line-height: 32px;
+      }
+    }
+  .db-subtitle {
+    margin: 0 auto 10px;
+    max-width: 700px;
+    color: #4b1e14;
+    font-size: 14px;
+    line-height: 24px;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 4px;
+    @include respond-to-max(767) {
+      font-size: 13px;
+      line-height: 24px;
+      }
+    }
+    .db-dark-bg & {
+      .db-title {
+        color: #e5e5e5;
+      }
+      .db-subtitle {
+        color: #505050;
+      }
+      .db-text {
+        color: #909090;
+      }
+    }
+  }
+
+.db-heading .db-text {
+  font-size: 18px;
+  line-height: 28px;
+  max-width: 1140px;
+  margin: 0 auto;
+  @include respond-to-max(767) {
+    font-size: 15px;
+    line-height: 26px;
+    }
+  }
